@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "snaskar_playz",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "Sanskar_playz",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        ".",
+        ".",
+        "."
       ]
     },
     "chat-log": true,
